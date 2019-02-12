@@ -1,0 +1,16 @@
+body{
+	margin-top:30px;
+}
+
+.search-form{
+	width:100%;
+	margin:auto;
+	background: #f4f4f4;
+	padding: 0 20px 20px 20px;
+	border: 1px #ccc solid;
+	border-radius: 10px;
+}
+
+img{
+	width:100%;
+}
